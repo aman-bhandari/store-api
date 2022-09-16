@@ -1,6 +1,6 @@
 # Store API (NodeJs - Express - MongoDB)
 
-A simple REST API for store. This is API products includes show list of the products, sorting, filtering, search for product name and custom pagination.
+A simple REST API for store. It includes show list of the products, sorting, filtering, search for product name and custom pagination.
 
 ## Usage
 
